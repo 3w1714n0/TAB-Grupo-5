@@ -10,4 +10,4 @@ De esta asignatura espero poder adquirir, hasta cierto grado, los conocimientos 
 
 He escogido esta asignatura por las razones ya citadas anteriormente, también me han ayudado a decidirme las opiniones de antiguxs alumnxs que han cursado esta asignatura y de la cual, absolutamente todxs, me han hablado maravilla.
 
-![alt text]<https://lh3.googleusercontent.com/proxy/kBAR7Dc4D329llj6n30YyVhnb-gqRLvAhsr7QshCRuoxqlMSLEUBq1XAvDlMmpscsNSo_0e_G_uMNmHJ8I9k26TCkp3XH8ecJ33drNp1oZpS-RBjTWmMIv0iHqU>
+
