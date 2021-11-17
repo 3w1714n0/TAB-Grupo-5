@@ -1,5 +1,5 @@
 Repositorio para el trabajo individual de Pol Bonet.
-¿QUé espero de la asignatura?
+¿Qué espero de la asignatura?
 ¿Por qué la he escogido?
 etc
 
@@ -9,3 +9,5 @@ No es mi rama favorita de la genética, ya que me gusta más el laboratorio, per
 De esta asignatura espero poder adquirir, hasta cierto grado, los conocimientos bioinformáticos necesários como para poder desarrollarme mejor en esta disciplina y poder realizar diferentes funciones necesárias para entender diferentes análisis, datos, representaciones, etc, pero sin necesitar ayuda.
 
 He escogido esta asignatura por las razones ya citadas anteriormente, también me han ayudado a decidirme las opiniones de antiguxs alumnxs que han cursado esta asignatura y de la cual, absolutamente todxs, me han hablado maravilla.
+
+<https://lh3.googleusercontent.com/proxy/kBAR7Dc4D329llj6n30YyVhnb-gqRLvAhsr7QshCRuoxqlMSLEUBq1XAvDlMmpscsNSo_0e_G_uMNmHJ8I9k26TCkp3XH8ecJ33drNp1oZpS-RBjTWmMIv0iHqU>
