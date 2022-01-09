@@ -5,3 +5,4 @@ En este directorio se muestran los diferentes plots realizados durante la práct
 - ***unnamed-chunk-5-1.png***: plot con diferentes pasos del GWAS.
 - ***unnamed-chunk-6-1.png***: plot con diferentes pasos del GWAS.
 - ***unnamed-chunk-7-1.png***: plot con diferentes pasos del GWAS.
+- ***unnamed-chunk-8-1.png***: plot con el GWAS final.
