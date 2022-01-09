@@ -1,7 +1,7 @@
 En este directorio se muestran los diferentes plots realizados durante la práctica 3:
-- ***Firs_plot.png***: plot para visualizar el estado del cancer.
-- ***GO.png***: plot del análisis de enriquecimiento.
-- ***Normalization.png***: plot para comparar los dos métodos de normalización con los datos "crudos".
-- ***RNA_seq.png***: volcano plot.
-- ***DEgenes.png***: plot de los genes más diferentemente expresados.
-- ***early_vs_late.png***: plot de los genes diferencialmente expresados entre *early* y *late* cáncer de vejiga.
+- ***het-plot-1.png***: gráfico que muestra la heterocigosidad F.
+- ***sex-discr-1.png***: gráfico que muestra la heterocigosidad por sexo.
+- ***unnamed-chunk-4-1.png***: plot con diferentes pasos del GWAS.
+- ***unnamed-chunk-5-1.png***: plot con diferentes pasos del GWAS.
+- ***unnamed-chunk-6-1.png***: plot con diferentes pasos del GWAS.
+- ***unnamed-chunk-7-1.png***: plot con diferentes pasos del GWAS.
