@@ -1,1 +1,9 @@
 
+Considero que des del primer dia he pogut anar aprenent a com d'útil pot arribar a ser la bioinformàtica encara que no m'hi vagi a dedicar.
+Simplement el fet de poder crear gràfics i poder tractar les dades que obtens dels teus experiments sense la necessitat de fer ús de les habilitats d'una altra persona ja és un gran qué. 
+
+He pogut aprendre a obtenir les dades que m'interessen d'arxius molt grans, a poder extraure informació d'un document sense necessitat d'obrir-lo i buscar jo aquesta informació a mà, poder agafar dades de gran mida d'experiments realitzats i poder fer un anàlisi estadístic per veure si aquestes dades són representatives o no i, per tant, si em podran ser útils o no.
+
+Tanmateix he aprés que el que veiem és nomès la punta de l'iceberg, hi ha una gran quantitat de programes, workflows i utilitats que poden ajudar-nos en el dia a dia de la vida científica, i és per això que me n'alegro molt d'haver escollit aquesta assignatura i que he pogut gaudir assistint a les classes i xerrades. 
+
+Les xerrades m'han servit per acabar d'entendre alguns conceptes que ja coneixia, però també per aprendren alguns de nous així com per poder entendre com funciona la vida d'un investigador o d'un doctorand. Algunes xerrades ens han ensenyat que no tot comença i acaba amb el grau i la nota, i que el que pensem que ens agrada no sempre és el millor per nosaltres, pot ser que pensem que volem fer un master específic i un doctorat i que, quan estiguem fent el doctorat veguem que no és el que pensàvem i que no és el que realment ens agrada, i que si el deixem a mitjes tampoc s'acaba el món, sinó que hem de poder prendre la decisió de canviar la orientació de la nostra carrera professional quan volguem si és per tal d'anar cap a millor, sobretot en l'àmbit personal i de la salut mental.
